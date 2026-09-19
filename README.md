@@ -18,28 +18,6 @@ Sou desenvolvedora e analista de sistemas, meu objetivo principal é construir a
 
 Tenho experiência prática com desenvolvimento web, APIs, bancos de dados, aplicações mobile, integrações e automações. Também venho explorando inteligência artificial e visão computacional para deixar meus projetos cada vez mais funcionais e didáticos para os meus clientes.
 
----
-
-## 🛠️ Tecnologias
-
-### ୨୧ Desenvolvimento ୨୧
-
-`React` `TypeScript` `JavaScript` `Node.js` `Express` `Vite` `Tailwind CSS`
-
-### ୨୧ Dados & Backend ୨୧
-
-`PostgreSQL` `Neon` `REST APIs` `IndexedDB` `Zustand`
-
-### ୨୧ Mobile & Ferramentas ୨୧
-
-`Capacitor` `Git` `GitHub` `Vercel` `Render` `Linux` `VS Code`
-
-### ୨୧ Explorando ୨୧
-
-`Inteligência Artificial` `Visão Computacional` `Embeddings` `Automação`
-
----
-
 
 ## ୨୧ Meus objetivos como desenvolvedora ୨୧
 
