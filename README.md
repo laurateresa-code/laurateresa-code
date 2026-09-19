@@ -50,5 +50,6 @@ Se quiser trocar uma ideia sobre desenvolvimento, tecnologia ou algum projeto, f
 ---
 
 <p align="center">
-  <sub>Feito com 🩷 por Laura Teresa</sub>
-</p>
+  <sub>Feito com 🩷 por Laura Teresa</sub></p>
+  
+
