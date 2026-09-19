@@ -50,23 +50,17 @@ Sistema de gestão operacional para hotelaria, com controle de quartos, atividad
 
 > Projeto em desenvolvimento privado.
 
-### 📚 Litera
 
-Plataforma voltada para leitores e autores, com metas de leitura e interação entre usuários.
-
-**Stack:** HTML • CSS • JavaScript
-
-🔗 [Ver projeto](https://sitelivros-three.vercel.app/)
 
 ### 🎮 PetroGame
 
-Projeto desenvolvido como experiência prática de desenvolvimento e criação de aplicações interativas.
+Mini game desenvolvido como experiência prática de desenvolvimento e criação de aplicações interativas.
 
 🔗 [Ver repositório](https://github.com/laurateresa-code/PetroGame)
 
 ### 🌐 Meu Portfólio
 
-Meu portfólio pessoal, desenvolvido com React e TypeScript para apresentar meus projetos, habilidades e trajetória.
+Meu portfólio pessoal, desenvolvido para apresentar meus projetos, habilidades e trajetória.
 
 **Stack:** React • TypeScript • Vite • Tailwind CSS
 
@@ -74,14 +68,13 @@ Meu portfólio pessoal, desenvolvido com React e TypeScript para apresentar meus
 
 ---
 
-## 💡 Como gosto de trabalhar
+## 💡 Meus objetivos como desenvolvedora
 
 - 🧩 Transformar requisitos em soluções práticas
-- 🏗️ Pensar na estrutura antes de apenas escrever código
 - 🔍 Investigar problemas e encontrar a causa raiz
 - 📱 Considerar a experiência em diferentes dispositivos
 - ⚙️ Automatizar processos repetitivos
-- 📚 Aprender continuamente e aplicar o conhecimento em projetos reais
+- 📚 Aplicar o conhecimento em projetos reais
 
 ---
 
@@ -89,7 +82,7 @@ Meu portfólio pessoal, desenvolvido com React e TypeScript para apresentar meus
 
 Aqui você encontra projetos, experimentos e aplicações desenvolvidas ao longo da minha evolução profissional.
 
-Alguns projetos são privados por fazerem parte de sistemas internos e produtos em desenvolvimento.
+Alguns projetos são privados por fazerem parte de sistemas internos terceiros e produtos em desenvolvimento.
 
 ---
 
