@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="./assets/welcome.svg" width="850" alt="Seja bem-vindo ao perfil de Laura Teresa">
+
+</div>
+
 # Laura Teresa 👩‍💻
 
 ### Desenvolvedora de Sistemas • Full Stack • Tecnologia aplicada a problemas reais
