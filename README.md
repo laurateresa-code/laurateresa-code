@@ -6,12 +6,10 @@
   />
 </div>
 
-# Laura Teresa 🩷
 
-### Desenvolvedora de Sistemas • Full Stack • Tecnologia aplicada a problemas reais
 
 ```text
-Transformando ideias e problemas do dia a dia em sistemas funcionais.
+ Desenvolvedora de Sistemas • Full Stack • Tecnologia aplicada a problemas reais
 ```
 
 Sou desenvolvedora e analista de sistemas, meu objetivo principal é construir aplicações que vão além de uma interface bonita, crio projetos que resolvem problemas reais, organizam processos e tornam o trabalho mais simples. 
