@@ -6,7 +6,7 @@
   />
 </div>
 
-# Laura Teresa 👩‍💻
+# Laura Teresa 🩷
 
 ### Desenvolvedora de Sistemas • Full Stack • Tecnologia aplicada a problemas reais
 
