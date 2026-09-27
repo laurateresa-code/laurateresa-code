@@ -6,20 +6,16 @@
   />
 </div>
 
-
-
-Sou desenvolvedora e analista de sistemas, meu objetivo principal é construir aplicações que vão além de uma interface bonita, crio projetos que resolvem problemas reais, organizam processos e tornam o trabalho mais simples. 
-
 Tenho experiência prática com desenvolvimento web, APIs, bancos de dados, aplicações mobile, integrações e automações. Também venho explorando inteligência artificial e visão computacional para deixar meus projetos cada vez mais funcionais e didáticos para os meus clientes.
 
 
 ## ୨୧ Meus objetivos como desenvolvedora ୨୧
 
 <p>⟡  Transformar requisitos em soluções práticas</p>
-<p>⟡  Investigar problemas e encontrar a causa raiz</p>
-<p>⟡ Considerar a experiência em diferentes dispositivos</p> 
+<p>⟡  Trazer soluções inovadoras para problemas reais</p>
+<p>⟡ Considerar a experiência integral do usuário</p> 
 <p>⟡  Automatizar processos repetitivos</p>
-<p>⟡  Aplicar o conhecimento em projetos reais</p>
+<p>⟡  Aplicar conhecimento em projetos funcionais</p>
 
 ---
 
